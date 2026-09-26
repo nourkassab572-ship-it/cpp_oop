@@ -13,7 +13,7 @@ int main()
 {
     Book bk1;
     Book bk2;
-
+    Book bk3;
     bk1.title="evil";
     bk1.price=200 ;
     bk1.author="nour kassab";
